@@ -6,6 +6,9 @@ I'm a **21 year old** computer science student currently studying at **Epitech B
 
 Lately, I've been spending more time writing **rust** in personal projects and **getting more into open source.** I'm also working on [**glados**](https://github.com/nLatt/GLaDOS-2023), a **minimalistic** scheme interpreter in **Haskell.**
 
+**I am currently looking for a software development internship,** feel free to reach out.
+You may find my resume here : ([English](./LeonSautour-EnglishResume.pdf) or [French](./LeonSautour-FrenchResume.pdf)).
+
 ## About Me
 
 I am very passionate about **low level systems** programming languages, especially **C** and **Rust**. Over the course of my studies, I have on numerous occasions honed my skills by **re-writing linux cli programs** and **libc functions**. Some of my **favourites** were [Nm / Objdump](https://github.com/mindoodoo/Nm-Objdump), [Ftp Server](https://github.com/mindoodoo/Ftp-Server) and [Malloc.](https://github.com/mindoodoo/Malloc)
