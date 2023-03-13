@@ -4,7 +4,7 @@
 
 I'm a **21 year old** computer science student currently studying at **Epitech Berlin.** French & American, I love everything **technology** and **programming.**
 
-Lately, I've been spending more time writing **rust** in personal projects and **getting more into open source.** I'm also working on [**glados**](https://github.com/nLatt/GLaDOS-2023), a **minimalistic** scheme interpreter in **Haskell.**
+Lately, I've been spending more time writing **rust** in personal projects and **getting more into open source.** I also recently finished working on [**glados**](https://github.com/nLatt/GLaDOS-2023), a **minimalistic** scheme sheme like programming language compiler **written in haskell.**
 
 **I am currently looking for a software development internship,** feel free to reach out.
 You may find my resume here : ([English](https://drive.google.com/file/d/1cja2n7DVavwnvKHc0PdANNZvMXsU80IM/view?usp=sharing) or [French](https://drive.google.com/file/d/1GyQJhOUrEy7x7oMPE9xjI7oPbBekI3fz/view?usp=sharing)).
